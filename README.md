@@ -1,3 +1,3 @@
 # Combinatorial Test Tool
 
-Now Extended with pairwise algorithm.
+Now extended with pairwise algorithm.
