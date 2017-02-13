@@ -40,3 +40,12 @@ C:\Users\Luxs\Dropbox\DVA331 - Thesis work\DVA313-02-master\Combinatorial Test T
 C:\Users\Luxs\Desktop\CTT\GUItest\bin\Release\GUItest.exe.config
 C:\Users\Luxs\Desktop\CTT\GUItest\obj\Release\GUItest.exe
 C:\Users\Luxs\Desktop\CTT\GUItest\obj\Release\GUItest.pdb
+C:\Users\Peter\Documents\GitHub\CTT\CTT\GUItest\bin\Release\GUItest.exe.config
+C:\Users\Peter\Documents\GitHub\CTT\CTT\GUItest\obj\Release\GUItest.exe
+C:\Users\Peter\Documents\GitHub\CTT\CTT\GUItest\obj\Release\GUItest.pdb
+C:\Users\Peter\Documents\GitHub\CTT\CTT\GUItest\bin\Release\GUItest.exe
+C:\Users\Peter\Documents\GitHub\CTT\CTT\GUItest\bin\Release\GUItest.pdb
+C:\Users\Peter\Documents\GitHub\CTT\CTT\GUItest\obj\Release\GUItest.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\GitHub\CTT\CTT\GUItest\obj\Release\GUItest.Form1.resources
+C:\Users\Peter\Documents\GitHub\CTT\CTT\GUItest\obj\Release\GUItest.Properties.Resources.resources
+C:\Users\Peter\Documents\GitHub\CTT\CTT\GUItest\obj\Release\GUItest.csproj.GenerateResource.Cache
