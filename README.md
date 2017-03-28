@@ -1,3 +1,8 @@
-# Combinatorial Test Tool
+# SEAFOX - Software Evaluation Automation For XML
 
-Now extended with pairwise algorithm.
+Supports PLCOpen XML files to be imported
+
+Supported algorithms
+  - Random
+  - Basechoice
+  - Pairwise
