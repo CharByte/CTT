@@ -1,2 +1,8 @@
-# DVA313-02
-Software engineering: Project Teamwork, Combinatorial Test Tool Group 2
+# SEAFOX - Software Evaluation Automation For XML
+
+Supports PLCOpen XML files to be imported
+
+Supported algorithms
+  - Random
+  - Basechoice
+  - Pairwise
